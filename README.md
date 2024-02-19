@@ -1,4 +1,4 @@
-# hare-raylib
+# raylib.ha
 
 My version of raylib binding forking the original
 [hare-raylib](https://sr.ht/~evantj/hare-raylib/) considering it isn't currently
